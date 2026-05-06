@@ -32,8 +32,8 @@ I'm a final-year Software Engineering student in Istanbul, graduating June 2026.
 
 #### 📈 GitHub Stats
 
-![Beril's GitHub stats](https://github-readme-stats.vercel.app/api?username=berilctl&show_icons=true&theme=gruvbox&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=berilctl&layout=compact&theme=gruvbox&hide_border=true)
+![Beril's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=berilctl&show_icons=true&theme=gruvbox&hide_border=true)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=berilctl&layout=compact&theme=gruvbox&hide_border=true)
 
 ---
 
