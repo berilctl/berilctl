@@ -1,4 +1,8 @@
-### Hi, I'm Beril
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Beril+%F0%9F%91%8B;Software+Engineering+Student;AI+Engineer+in+the+making" alt="Typing SVG" />
+</p>
+
+### Hi, I'm Beril <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 I'm a final-year Software Engineering student in Istanbul, graduating June 2026. I work on AI/ML systems.
 
@@ -32,8 +36,8 @@ I'm a final-year Software Engineering student in Istanbul, graduating June 2026.
 
 #### 📈 GitHub Stats
 
-![Beril's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=berilctl&show_icons=true&theme=gruvbox&hide_border=true)
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=berilctl&layout=compact&theme=gruvbox&hide_border=true)
+![Beril's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=berilctl&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=berilctl&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
