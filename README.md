@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/wAwZBh7iCpGbxpFP7V/giphy.gif" width="100%" alt="banner"/>
+  <img src="https://media.giphy.com/media/wAwZBh7iCpGbxpFP7V/giphy.gif" width="600" alt="banner"/>
 </p>
 
 ### Hi, I'm Beril 👋
